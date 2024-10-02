@@ -1,6 +1,8 @@
 You can compile it with command:  gcc -std=gnu99 -Wpedantic -Wall -Wextra -Os -s -o mcrcon mcrcon.c -lws2_32 -static
 
 
+----------------------------------------------------------------------------------------------------------------------
+
 How to use:
 1. You need to put mcrcon.exe to the same path as the server kernel
 2. As the same useage of original version, you need to enable rcon in server.properties and set rcon port and ip:
