@@ -41,3 +41,12 @@ For more help, type ./mcrcon -h
 No linux version, because it make no sense.
 
 没有Linux版本，否则有脱裤子放屁之嫌。
+
+----------------------------------------------------------------------------------------------------------------------
+source:
+   https://github.com/Tiiffi/mcrcon
+源码：
+   https://github.com/Tiiffi/mcrcon
+----------------------------------------------------------------------------------------------------------------------
+
+Thank you Tiiffi!
