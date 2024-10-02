@@ -1,5 +1,6 @@
 You can compile it with command:  gcc -std=gnu99 -Wpedantic -Wall -Wextra -Os -s -o mcrcon mcrcon.c -lws2_32 -static
 
+你可以用如下指令编译: gcc -std=gnu99 -Wpedantic -Wall -Wextra -Os -s -o mcrcon mcrcon.c -lws2_32 -static
 
 ----------------------------------------------------------------------------------------------------------------------
 
